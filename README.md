@@ -1,1 +1,1 @@
-# magoun-park.github.io
+# magoun-park
