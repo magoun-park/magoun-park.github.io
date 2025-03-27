@@ -35,8 +35,6 @@ jobs:
         with:
           source: ./
           destination: ./_site
-      - name: Optimize with Jampack
-        run: npx @divriots/jampack ./_site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
