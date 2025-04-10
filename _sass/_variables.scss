@@ -1,0 +1,34 @@
+:root {
+    --type-serif: "Piazzolla", serif;
+    --type-caps: "Piazzolla SC", serif;
+    --type-mono: "Hack", monospace;
+    --type-size: 18px;
+    --type-weight: 400;
+    --type-height: 1.4;
+    --type-numeric: oldstyle-nums proportional-nums;
+    --color-particles-text: var(--oc-gray-1);
+    --color-particles-background: var(--oc-gray-9);
+  }
+  
+  html,
+  html[data-theme="light"] {
+    --color-background: #30bd5a;
+    --color-text: white;
+    --color-heading: white;
+    --color-link: yellow;
+    --color-chunk: var(--oc-gray-8);
+    --color-mark: var(--oc-yellow-3);
+    --color-border: var(--oc-gray-4);
+    --color-button: var(--oc-gray-6);
+  }
+  
+  html[data-theme="dark"] {
+    --color-background: #30bd5a;
+    --color-text: white;
+    --color-heading: white;
+    --color-link: yellow;
+    --color-chunk: var(--oc-gray-8);
+    --color-mark: var(--oc-yellow-3);
+    --color-border: var(--oc-gray-4);
+    --color-button: var(--oc-gray-6);
+  }

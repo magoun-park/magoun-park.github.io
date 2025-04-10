@@ -1,0 +1,68 @@
+@media screen and (min-width: 768px) {
+  body {
+    font-size: 1.25em;
+  }
+
+  .particles-title {
+    font-size: 3.5em;
+  }
+
+  .particles-subtitle {
+    font-size: 1.75em;
+  }
+
+  .particles-icon {
+    margin: 0 1em;
+
+    svg {
+      -webkit-transform: scale(2.4);
+      transform: scale(2.4);
+    }
+  }
+
+  .particles-scroll svg {
+    -webkit-transform: scale(3.6);
+    transform: scale(3.6);
+  }
+}
+
+@media only print {
+  body {
+    font-size: 10pt;
+    background-color: white;
+    color: black;
+  }
+
+  a {
+    color: black;
+  }
+
+  dd {
+    padding-left: 1.5em;
+  }
+
+  .pagination {
+    display: none;
+  }
+
+  #cv {
+    header {
+      margin: 0;
+    }
+
+    .site-title {
+      font-size: 1.5em;
+    }
+
+    small {
+      display: none;
+    }
+
+    .toggle-icon,
+    .li-icon,
+    .reversefootnote,
+    a.iconlink {
+      display: none;
+    }
+  }
+}
