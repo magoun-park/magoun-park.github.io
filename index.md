@@ -22,12 +22,12 @@ Enjoy live music from local bands! Meet your neighbors and build community.
 
 <ul>
 <li><a href="https://www.facebook.com/share/15yjK6qERP">Facebook event</a></li>
-<li><a href="mailto:magounparkfunfest@gmail.com">Questions? Want to help out?<br/>Email <b>magounparkfunfest@gmail.com</b></a></li>
+<li><a href="mailto:magounparkfunfest@gmail.com">Questions? Want to help out? Email <b>magounparkfunfest@gmail.com</b></a></li>
 </ul>
 
 <b>Saturday, May 31, 2025</b><br/>
 <b>3-6 PM</b><br/>
-<a href="https://maps.app.goo.gl/6v3wMhHs7Sk7DEMu6">Magoun Park, Thatcher St., Medford MA</a><br/>
+<a href="https://maps.app.goo.gl/6v3wMhHs7Sk7DEMu6">Magoun Park, Thatcher St., Medford</a><br/>
 Raindate: Sunday, June 1, 2025<br/>
 </div>
 </div>
